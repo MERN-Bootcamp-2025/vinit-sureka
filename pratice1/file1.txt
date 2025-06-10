@@ -1,1 +1,3 @@
 this is the frist file which need to be push
+this is the second line in file one
+this s the thirrd line which i have added
